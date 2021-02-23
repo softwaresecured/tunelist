@@ -1,6 +1,8 @@
 # tunelist
 This script accepts a list of urls, applies tuning, &amp; removes redundancies, and outputs the normalized list
 
+
+
 Base use from file, (urlsin.txt and tunelist.cfg already configured):
 
 _python3 tunelist.py_
@@ -16,7 +18,10 @@ _python3 tunelist.py -i <filein (Default urlsin.txt)> -c <configfile (Default tu
 
 
 
+
+
 Available modes (as configured in tunelist.cfg)
+
 Mode 1 tune by url path only
 
 Mode 2 tune by URL path and query params without values
