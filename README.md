@@ -11,7 +11,7 @@ Interactive mode, supply a list of urls on the fly:
 
 _python3 tunelist.py -n <interactive mode>_
 
-Specify custome input file and/or config file
+Specify custom input file and/or config file
 
 _python3 tunelist.py -i <filein (Default urlsin.txt)> -c <configfile (Default tunelist.cfg)>_
 
